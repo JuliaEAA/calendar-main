@@ -1,7 +1,8 @@
 export default function Footer() {
-  return (
-    <footer>
-      <p>© 2023 My Calendar App</p>
-    </footer>
-  )
+    
+    return (
+        <>
+        <h2>This is my Footer</h2>
+        </>
+    )
 }
